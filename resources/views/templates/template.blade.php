@@ -8,6 +8,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
+<div class="container"> 
     @include('layout.navbar')
 
     <section>
@@ -15,5 +16,6 @@
     </section>
     
     @include('layout.footer')
+</div>
 </body>
 </html>

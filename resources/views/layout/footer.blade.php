@@ -1,4 +1,4 @@
 <!-- Footer -->
 <footer>
-    <h1>teste 2</h1>
+    <h1 class="link-danger">teste 2</h1>
 </footer>
