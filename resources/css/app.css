@@ -1,5 +1,11 @@
 @import url("~bootstrap/css/bootstrap.css");
 
-@tailwind base;
+
+/* o tailwindcss estava bugando o bootstrap */
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+
+body{
+    background-color: rgb(223, 253, 253);
+}

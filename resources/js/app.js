@@ -2,6 +2,6 @@ import '@/bootstrap';
 import test from '@/test';
 import '~bootstrap/js/bootstrap.js'
 
-test();
+// test();
 
 console.log('teste');
